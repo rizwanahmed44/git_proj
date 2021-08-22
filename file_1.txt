@@ -1,0 +1,10 @@
+Steps to create repository in git and github
+
+1. Goto working directory in git
+	$ cd <directory path/name>
+
+2. Check the working directory
+	$ pwd
+
+3. See the list of files
+	$ ls -la 
