@@ -10,4 +10,18 @@ Steps to create repository in git and github
 
 3. See the list of files
 
-	$ ls -la 
+	$ ls -la
+
+4. How to see list of files
+
+	$ ls
+
+5. How to check if there is anything to commit
+
+	$ git status
+
+6. How to tracked file
+
+	$ git add <file name>
+	$ git add -A  (add all files)
+ 
